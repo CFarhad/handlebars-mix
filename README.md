@@ -33,7 +33,7 @@ mix.handlebars('**/*.hbs', '/public/pages/*.html');
 <br>
 
 ## example
-- [simple]()
+- [simple](https://github.com/CFarhad/handlebars-mix/tree/master/examples)
 
 <br>
 
