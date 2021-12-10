@@ -1,0 +1,34 @@
+{
+  "name": "handlebars-mix",
+  "version": "1.0.1",
+  "description": "handlebars compiler for laravel mix",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx mix watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfarhad/handlebars-wax.git"
+  },
+  "homepage": "https://github.com/cfarhad/handlebars-wax#readme",
+  "keywords": [
+    "laravel-mix",
+    "handlebars",
+    "handlebars layout",
+    "handlebars helpers",
+    "handlebars wax",
+    "front matter"
+  ],
+  "author": "Cfarhad",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "handlebars-wax": "^6.1.0",
+    "laravel-mix": "^6.0.39"
+  },
+  "devDependencies": {
+    "front-matter": "^4.0.2",
+    "handlebars-helpers": "^0.10.0",
+    "handlebars-layouts": "^3.1.4"
+  }
+}

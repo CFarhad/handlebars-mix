@@ -1,0 +1,16 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx mix watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars-mix": "^1.0.0",
+    "laravel-mix": "^6.0.39"
+  }
+}
