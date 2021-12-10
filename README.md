@@ -33,7 +33,7 @@ mix.handlebars('**/*.hbs', '/public/pages/*.html');
 <br>
 
 ## example
-- [simple](https://www.npmjs.com/package/handlebars-mix)
+- [simple](https://github.com/CFarhad/handlebars-mix/tree/master/examples)
 
 <br>
 
