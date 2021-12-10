@@ -1,4 +1,4 @@
-# handlebars-wax plugin for [Laravel-mix](https://github.com/laravel-mix/laravel-mix)
+# handlebars-mix plugin for [Laravel-mix](https://github.com/laravel-mix/laravel-mix)
 
 ### you can use this plugin for compile handlebars templates to html
 <br>
@@ -19,7 +19,7 @@ yarn add handlebars-mix
 in your `webpack.mix.js`
 ```javascript
 const mix = require('mix');
-require('handlebars-wax');
+require('handlebars-mix');
 
 mix.handlebars('**/*.hbs', '/public/pages/*.html');
 ```
@@ -33,7 +33,7 @@ mix.handlebars('**/*.hbs', '/public/pages/*.html');
 <br>
 
 ## example
-- [simple]()
+- [simple](https://www.npmjs.com/package/handlebars-mix)
 
 <br>
 
