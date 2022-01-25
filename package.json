@@ -1,7 +1,7 @@
 {
   "name": "handlebars-mix",
   "version": "1.0.2",
-  "description": "handlebars compiler for laravel mix",
+  "description": "full handlebars compiler for laravel mix",
   "main": "index.js",
   "scripts": {
     "start": "npx mix watch"
